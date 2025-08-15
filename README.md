@@ -1,4 +1,4 @@
-# Guitar-Shop Project Submission
+# Online Guitar Shop Project Submission
 
 This is my completed Next.js project for the "Online Guitar Shop" task.
 
